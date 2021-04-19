@@ -1,0 +1,6 @@
+[submodule "upnotedjango"]
+	path = upnotedjango
+	url = ./upnotedjango
+[submodule "upnote-react"]
+	path = upnote-react
+	url = ./upnote-react
