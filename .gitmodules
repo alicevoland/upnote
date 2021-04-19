@@ -1,7 +1,7 @@
 [submodule "upnotedjango"]
 	path = upnotedjango
 	url = git@github.com:mvoland/upnotedjango.git
-[submodule "upnote-react"]
+[submodule "upnotereact"]
 	path = upnote-react
-	url = git@github.com:mvoland/upnote-react.git
+	url = git@github.com:mvoland/upnotereact.git
 
