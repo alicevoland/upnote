@@ -1,7 +1,11 @@
 [submodule "upnotedjango"]
 	path = upnotedjango
 	url = git@github.com:mvoland/upnotedjango.git
+
 [submodule "upnotereact"]
 	path = upnote-react
 	url = git@github.com:mvoland/upnotereact.git
 
+[submodule "upnoteflask"]
+	path = upnoteflask
+	url = git@github.com:mvoland/upnoteflask.git
